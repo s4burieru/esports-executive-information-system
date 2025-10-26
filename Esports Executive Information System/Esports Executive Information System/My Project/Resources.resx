@@ -121,11 +121,20 @@
   <data name="6852fcc24bbe4821ebb0723b_zn_lg_rgb_wht_rev" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6852fcc24bbe4821ebb0723b_zn_lg_rgb_wht_rev.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="65dd7c70d577f1f61fef2281_11 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\65dd7c70d577f1f61fef2281_11 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="65f44cd149e66e386d8d3da7_Crest-on-lightinverted" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\65f44cd149e66e386d8d3da7_Crest-on-lightinverted.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="employee-man238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\employee-man238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6544e7427a9431a599f13e33_SAP" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6544e7427a9431a599f13e33_SAP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="684b3dd43e45b89ee2378304_BLACKLYTE WHITE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\684b3dd43e45b89ee2378304_BLACKLYTE WHITE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6765795004360e73ef7bc257_Monster_logo (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6765795004360e73ef7bc257_Monster_logo (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="65f44cd1a36d0e7ade30289b_Crest-on-dark" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\65f44cd1a36d0e7ade30289b_Crest-on-dark.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,14 +151,23 @@
   <data name="next" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\next.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="65f44cd149e66e386d8d3da7_Crest-on-lightinverted" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\65f44cd149e66e386d8d3da7_Crest-on-lightinverted.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="trophy238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trophy238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="65f44cd149e66e386d8d3da7_Crest-on-light" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\65f44cd149e66e386d8d3da7_Crest-on-light.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="wallet238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallet238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="684b3dd43e45b89ee2378304_BLACKLYTE WHITE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\684b3dd43e45b89ee2378304_BLACKLYTE WHITE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dashboard-monitor238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dashboard-monitor238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="console-controller238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\console-controller238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="reject238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\reject238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="introduction-handshake238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\introduction-handshake238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="686d19c471718033b31eebca_Ramoons__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\686d19c471718033b31eebca_Ramoons__1_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,16 +175,19 @@
   <data name="66ed9ece79e1160e8863d08f_visa2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\66ed9ece79e1160e8863d08f_visa2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="reject238" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\reject238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="65f44cd149e66e386d8d3da7_Crest-on-light" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\65f44cd149e66e386d8d3da7_Crest-on-light.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="6544e724bb338a882011713b_IMC" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6544e724bb338a882011713b_IMC.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6765795004360e73ef7bc257_Monster_logo (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6765795004360e73ef7bc257_Monster_logo (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="log-out" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\log-out.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="65dd7c70d577f1f61fef2281_11 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\65dd7c70d577f1f61fef2281_11 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boss238" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boss238.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

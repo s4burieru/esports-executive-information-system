@@ -71,6 +71,26 @@ EsportsExecutiveInformationSystem
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.boss238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.console_controller238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.dashboard_monitor238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.employee_man238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.introduction_handshake238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.log_out">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -80,6 +100,14 @@ EsportsExecutiveInformationSystem
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.reject238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.trophy238">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Esports_Executive_Information_System.My.Resources.Resources.wallet238">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
