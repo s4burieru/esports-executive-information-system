@@ -32,7 +32,7 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 1.  **Clone the repository:**
     ```sh
-    git clone (https://github.com/s4burieru/esports-executive-information-system.git)
+    git clone https://github.com/s4burieru/esports-executive-information-system.git
     ```
 
 2.  **Open the project in Visual Studio:**
