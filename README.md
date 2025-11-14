@@ -1,6 +1,9 @@
 # Esports Executive Information System
 Currently in Development
 
+## Mockups
+[Include screenshots demonstrating the system's key dashboards and UI.] (Processing)
+
 ## Description
 The Esports Executive Information System (EIS) is a specialized management information system designed to support senior executives in the esports industry. The system helps top-level management monitor datas. This system offers executive-level dashboards that provide graphical displays and easy-to-use interfaces. The application is built using VB.NET within Visual Studio, utilizing the Guna UI framework for a modern aesthetic.
 
@@ -51,8 +54,5 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 *   **Start the application:**
     *   Press the `F5` key or click the green "Start" button in the Visual Studio toolbar to run the application in debug mode.
-
-## Mockups
-[Include screenshots demonstrating the system's key dashboards and UI.] (Processing)
 
 The application is a Windows Forms application. Use the graphical interface elements built with Guna UI to navigate between different executive dashboards.
