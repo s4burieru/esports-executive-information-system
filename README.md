@@ -2,6 +2,11 @@
 Currently in Development
 
 ## Mockups
+## Mockups
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c4fc5ac-c51a-4a88-8b2e-783c811d8012" width="45%" />
+  <img src="https://github.com/user-attachments/assets/644fa9c5-b0d6-471c-a944-843481840528" width="45%" />
+</p>
 ![macbook-16-pro-mockup-on-concrete-background-frffont-view](https://github.com/user-attachments/assets/0c4fc5ac-c51a-4a88-8b2e-783c811d8012) ![macbook-16-pro-mockup-on-concrete-background-front-ddview](https://github.com/user-attachments/assets/644fa9c5-b0d6-471c-a944-843481840528)
 
 ## Description
