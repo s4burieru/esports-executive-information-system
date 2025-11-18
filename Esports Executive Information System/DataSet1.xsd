@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="TeamLiquidConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="TeamLiquidConnectionString (MySettings)" PropertyReference="ApplicationSettings.Esports_Executive_Information_System.My.MySettings.GlobalReference.Default.TeamLiquidConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="qryAchievementsSummaryTableAdapter" GeneratorDataComponentClassName="qryAchievementsSummaryTableAdapter" Name="qryAchievementsSummary" UserDataComponentName="qryAchievementsSummaryTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="TeamLiquidConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT tournamentdate, FirstPlace, SecondPlace, ThirdPlace FROM qryAchievementsSummary</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="tournamentdate" DataSetColumn="tournamentdate" />
+              <Mapping SourceColumn="FirstPlace" DataSetColumn="FirstPlace" />
+              <Mapping SourceColumn="SecondPlace" DataSetColumn="SecondPlace" />
+              <Mapping SourceColumn="ThirdPlace" DataSetColumn="ThirdPlace" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="qryAchievementsSummary" msprop:Generator_TableClassName="qryAchievementsSummaryDataTable" msprop:Generator_TableVarName="tableqryAchievementsSummary" msprop:Generator_TablePropName="qryAchievementsSummary" msprop:Generator_RowDeletingName="qryAchievementsSummaryRowDeleting" msprop:Generator_RowChangingName="qryAchievementsSummaryRowChanging" msprop:Generator_RowEvHandlerName="qryAchievementsSummaryRowChangeEventHandler" msprop:Generator_RowDeletedName="qryAchievementsSummaryRowDeleted" msprop:Generator_UserTableName="qryAchievementsSummary" msprop:Generator_RowChangedName="qryAchievementsSummaryRowChanged" msprop:Generator_RowEvArgName="qryAchievementsSummaryRowChangeEvent" msprop:Generator_RowClassName="qryAchievementsSummaryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tournamentdate" msprop:Generator_ColumnVarNameInTable="columntournamentdate" msprop:Generator_ColumnPropNameInRow="tournamentdate" msprop:Generator_ColumnPropNameInTable="tournamentdateColumn" msprop:Generator_UserColumnName="tournamentdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FirstPlace" msprop:Generator_ColumnVarNameInTable="columnFirstPlace" msprop:Generator_ColumnPropNameInRow="FirstPlace" msprop:Generator_ColumnPropNameInTable="FirstPlaceColumn" msprop:Generator_UserColumnName="FirstPlace" type="xs:double" minOccurs="0" />
+              <xs:element name="SecondPlace" msprop:Generator_ColumnVarNameInTable="columnSecondPlace" msprop:Generator_ColumnPropNameInRow="SecondPlace" msprop:Generator_ColumnPropNameInTable="SecondPlaceColumn" msprop:Generator_UserColumnName="SecondPlace" type="xs:double" minOccurs="0" />
+              <xs:element name="ThirdPlace" msprop:Generator_ColumnVarNameInTable="columnThirdPlace" msprop:Generator_ColumnPropNameInRow="ThirdPlace" msprop:Generator_ColumnPropNameInTable="ThirdPlaceColumn" msprop:Generator_UserColumnName="ThirdPlace" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
