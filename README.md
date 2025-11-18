@@ -1,5 +1,4 @@
 # Esports Executive Information System
-Currently in Development
 
 ## Mockups
 <img src="https://github.com/user-attachments/assets/644fa9c5-b0d6-471c-a944-843481840528" width="45%" />
